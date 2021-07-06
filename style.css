@@ -26,7 +26,7 @@ h2{
     color: teal;
     font-size: 40px;
 }
-span{
+.color{
     color: #ff4c60;
 }
 #abtMe{
@@ -80,4 +80,22 @@ span{
 #foot{
     font-size: 20px;
     color: rgb(255, 166, 0);
+}
+.extra{
+    display: flex;
+    background-color: firebrick;   
+}
+#logoText{
+    color: ivory;
+    font-weight: bolder;
+    padding-left: 90px;
+}
+h4{ 
+    padding-left: 700px;
+    color: lightblue;
+}
+#fSearh{
+    background-color:white;
+    border-radius: 10px;
+    padding: 10px 60px;
 }
